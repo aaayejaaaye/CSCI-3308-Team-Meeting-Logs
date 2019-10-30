@@ -17,7 +17,7 @@
 
 ### Other ways to make this more interesting: 
 - Include how many times a pages has been searched
-- 
+- Include how often pages are being searched 
 
 
 # 9/25/2019 - Initial Team Meeting  

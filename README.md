@@ -12,8 +12,11 @@
 
 - Continue to work on script
 - Create a front-end page for the basic design of the website (Jake)
-- Create a login database for storing user info 
+- Set up a basic SQL database to store username/password info 
 - Create a login modal on the homepage
+
+### Other ways to make this more interesting: 
+- Include how many times a pages has been searched
 - 
 
 

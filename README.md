@@ -19,5 +19,29 @@
 - Include how many times a pages has been searched
 - Include how often pages are being searched 
 
+# 10/18/2019 -  Team Meeting 
+
+### What we've done: 
+- Completed Project Milestone #2 Documentation
+- Created a Project board.
+
+### What we still need to do:
+- Figure out the detailed implementation of the features.
+- Began First Sprint
+
+# 10/16/2019 - Team Meeting  
+
+### What we've done: 
+-Declared the 6 features our project wil have and outlined funtional and none functional features
+
+### What we still need to do:
+- Created a project board to outline the dates which we will have certain features completed.
+- Overview that our formatting is inline with the requirments.
 
 # 9/25/2019 - Initial Team Meeting  
+
+### What we've done: 
+- Worked over ideas for project and completed milestone #1 document.
+
+### What we still need to do:
+- Figure out the detailed implementation of the features.

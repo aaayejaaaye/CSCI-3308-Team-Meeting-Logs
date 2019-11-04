@@ -2,7 +2,7 @@
 
 --- 
 
-## 10/30/2019
+## 10/30/2019 - Team Meeting
 
 #### What we've done: 
 - Basic HTML parser (parses div/header tags, etc.) (Andrew)

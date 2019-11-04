@@ -1,5 +1,7 @@
 # CSCI-3308-Team-Meeting-Logs
 
+--- 
+
 ## 10/30/2019
 
 #### What we've done: 
@@ -19,6 +21,8 @@
 - Include how many times a pages has been searched
 - Include how often pages are being searched 
 
+--- 
+
 ## 10/18/2019 -  Team Meeting 
 
 #### What we've done: 
@@ -29,6 +33,8 @@
 - Figure out the detailed implementation of the features.
 - Began First Sprint
 
+--- 
+
 ## 10/16/2019 - Team Meeting  
 
 #### What we've done: 
@@ -37,6 +43,8 @@
 #### What we still need to do:
 - Created a project board to outline the dates which we will have certain features completed.
 - Overview that our formatting is inline with the requirments.
+
+--- 
 
 ## 9/25/2019 - Initial Team Meeting  
 

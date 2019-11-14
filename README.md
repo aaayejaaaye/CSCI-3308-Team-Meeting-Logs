@@ -1,4 +1,38 @@
 # CSCI-3308-Team-Meeting-Logs
+---
+## 11/13/2019 - Team Meeting
+#### What we've done: 
+- Continued scoping and planning on the specifics of our app - narrowing the gap bettween unknowns and knowns. This includes planning for Heroku, planning for a loading page  (or rather, a loading animation to play while the script is running) 
+    -- This will basically just be a loading gif that spins on the results page until the Python finshes running, API gets called, and javascript/jquery is 
+- Dicussion of how Heroku will get all of these components to talk to each other 
+- Use NodeJH to Call bash script to run python. Using Heroku. 
+- Version 12 of PostGres for database setup? Seems like the best 
+- Using Heroku with Node JS to make an API call: 
+
+**Basic Plan**
+* **Front end site takes in input -> calls API with URL calls -> loading page -> JavaScript
+
+#### What we still need to do:
+**Jake**
+ * Create loading animation/page for back-end
+ * Populate back-end with data from dummy json file (based on real input) 
+ * Fix front-end to handle multiple URL calls
+ 
+**Fengyuan** 
+ * Create a local database for data 
+ * Make some filler/dummy data (user's data) 
+
+**Andrew**
+ * Help with PieChart for Javascript 
+ 
+**Yuxi** 
+ * Work with Fengyuan's database to populate login page 
+ 
+**AJ**
+ * Figuring out Heroku, database management (calling that from the database) 
+ 
+**Other stuff** 
+ * Possible integration with Python instead of NodeJS. 
 
 --- 
 

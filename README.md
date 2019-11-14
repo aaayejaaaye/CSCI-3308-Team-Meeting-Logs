@@ -10,7 +10,7 @@
 - Using Heroku with Node JS to make an API call: 
 
 
-**Front end site takes in input -> calls API with URL calls -> loading page -> JavaScript
+**Front end site takes in input -> calls API with URL calls -> loading page -> JavaScript** 
 
 ### What we still need to do:
 **Jake**

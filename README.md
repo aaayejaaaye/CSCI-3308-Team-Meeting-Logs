@@ -24,6 +24,7 @@
 
 **Andrew**
  * Help with PieChart for Javascript 
+ * Continue working on Python script 
  
 **Yuxi** 
  * Work with Fengyuan's database to populate login page 

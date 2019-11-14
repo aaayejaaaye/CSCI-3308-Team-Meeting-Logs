@@ -9,10 +9,10 @@
 - Version 12 of PostGres for database setup? Seems like the best 
 - Using Heroku with Node JS to make an API call: 
 
-**Basic Plan**
-* **Front end site takes in input -> calls API with URL calls -> loading page -> JavaScript
 
-#### What we still need to do:
+**Front end site takes in input -> calls API with URL calls -> loading page -> JavaScript
+
+### What we still need to do:
 **Jake**
  * Create loading animation/page for back-end
  * Populate back-end with data from dummy json file (based on real input) 

@@ -1,4 +1,15 @@
 # CSCI-3308-Team-Meeting-Logs
+
+---
+## 11/13/2019 - Team Meeting
+#### What we've done: 
+- Continued work on updating SQL databases, populated them with data (decided to go with version 12) 
+- Discussed logitics with Heroku (and how exactly we might get all of the peices talking to each other with API calls?) 
+- Created a working front-end for the results page. Loading animation, page populates with the correct number of "results" boxes to display results. AJ is working on getting the JSON file and the front-end to talk to each other so we can start to get it working with actual data 
+
+### What we still need to do: 
+- Figure out exactly how we can use Heroku to update our app and to get all of the python script, login/info/start pages talking to the SQL databases and web/application servers. We are likely going to go into office hours this week to meet with an instructor/TA about this. 
+
 ---
 ## 11/13/2019 - Team Meeting
 #### What we've done: 

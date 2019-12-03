@@ -2,7 +2,7 @@
 
 
 ---
-## 11/13/2019 - Team Meeting
+## 12/2/2019 - Team Meeting
 #### What we've done: 
 - Massive updatess to front end. The info page now works properly and can be dynamically populated (hard-coded, right now). There is also login/sign-in/my account buttons on the page that will eventually be linked to each corrosponding page. Re-did with PUG instead of HTML 
 - Continued work on SQL databases. Determined that we need 2 databases, one with URL's and userID's, and one with usernames and passwords. These are currently working on being hosted on Heroku 

@@ -1,5 +1,21 @@
 # CSCI-3308-Team-Meeting-Logs
 
+
+---
+## 11/13/2019 - Team Meeting
+#### What we've done: 
+- Massive updatess to front end. The info page now works properly and can be dynamically populated (hard-coded, right now). There is also login/sign-in/my account buttons on the page that will eventually be linked to each corrosponding page. Re-did with PUG instead of HTML 
+- Continued work on SQL databases. Determined that we need 2 databases, one with URL's and userID's, and one with usernames and passwords. These are currently working on being hosted on Heroku 
+- Discussions and problem-solving related to hosting our site, implementation of exactly how we're going to get it to work and how the call's are going to pass data back and forth upon being hosted on Heroku
+- Project Milestone 5 complete 
+
+#### What we still need to do:
+- Host our services on Heroku, figure out how to API call with them and link them to our pages
+- Figure out how to properly connect all different moving pieces of this. 
+- Figure out how to properly make SQL queries using API calls, and pass the data from the login/signup forms into the two aforementioned databases.  
+- Build a "My Account" page that will display the user's previously-queired URL's in a table
+- Tie up any loose ends in terms of edge cases, testing, scripting (this will be after once we've connected all our working pieces) 
+- Project Milestones 6, 7
 ---
 ## 11/13/2019 - Team Meeting
 #### What we've done: 
@@ -7,7 +23,7 @@
 - Discussed logitics with Heroku (and how exactly we might get all of the peices talking to each other with API calls?) 
 - Created a working front-end for the results page. Loading animation, page populates with the correct number of "results" boxes to display results. AJ is working on getting the JSON file and the front-end to talk to each other so we can start to get it working with actual data 
 
-### What we still need to do: 
+#### What we still need to do: 
 - Figure out exactly how we can use Heroku to update our app and to get all of the python script, login/info/start pages talking to the SQL databases and web/application servers. We are likely going to go into office hours this week to meet with an instructor/TA about this. 
 
 ---

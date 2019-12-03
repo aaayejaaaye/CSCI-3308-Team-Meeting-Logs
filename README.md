@@ -15,6 +15,7 @@
 - Figure out how to properly make SQL queries using API calls, and pass the data from the login/signup forms into the two aforementioned databases.  
 - Build a "My Account" page that will display the user's previously-queired URL's in a table
 - Tie up any loose ends in terms of edge cases, testing, scripting (this will be after once we've connected all our working pieces) 
+- Final architecture decisions made 
 - Project Milestones 6, 7
 ---
 ## 11/13/2019 - Team Meeting

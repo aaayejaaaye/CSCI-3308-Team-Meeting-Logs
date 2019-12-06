@@ -1,5 +1,5 @@
 # CSCI-3308-Team-Meeting-Logs
-## 12/6/2019 - Team Meeting
+## 12/6/2019 - Presentation! 
 #### What we've done: 
  - Presented our project in front of the class!
 #### What we still need to do:

@@ -1,6 +1,15 @@
 # CSCI-3308-Team-Meeting-Logs
 
 
+## 12/3/2019
+#### What we've done: 
+- Final presentation planning
+- Finally fixed backend integration - the basic site works, but we still have some work! 
+#### What we still need to do:
+- Fix regex on front-end page (because API call is asynchronous, it messes up and we can't check the page)
+- Add a "My Account" page which will display the user's previous URL calls! 
+- Link all pages and databases together using Heroku and the last bits of NodeJS!
+
 ---
 ## 12/2/2019 - Team Meeting
 #### What we've done: 

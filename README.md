@@ -1,4 +1,12 @@
 # CSCI-3308-Team-Meeting-Logs
+## 12/6/2019 - Team Meeting
+#### What we've done: 
+ - Presented our project in front of the class!
+#### What we still need to do:
+- Fix regex on front-end page (because API call is asynchronous, it messes up and we can't check the page)
+- Add a "My Account" page which will display the user's previous URL calls! 
+- Link all pages and databases together using Heroku and the last bits of NodeJS!
+- Allow for the population of this my account page using SQL 
 
 
 ## 12/3/2019 - Team Meeting
